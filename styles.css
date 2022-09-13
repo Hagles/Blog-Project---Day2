@@ -1,0 +1,30 @@
+
+header{
+    width: 100%;
+    height: 32px;
+    background-color: gray;
+    }
+h3{
+    padding-top: 5px;
+}
+
+div, h3{ 
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.inputB{
+    display: block;
+}
+
+.inputA{
+    width: 150px;
+
+}
+
+textarea{
+    writing-mode: sideways-lr;
+    width: 500px;
+    height: 70px;
+    margin-bottom: 5px;
+}
